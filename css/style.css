@@ -205,11 +205,11 @@ body{
 }
 
 .freedom{
-    background-image: url("../img/watch.png");
+    background-image: url(../img/watch.png);
     background-repeat: no-repeat;
-    background-position: 840px;
+    background-position: right -500px center;
     padding: 200px 0;
-    background-size: contain;
+    background-size: 800px;
     border-bottom: 4px solid rgb(192, 192, 192);
 }
 
